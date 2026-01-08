@@ -48,10 +48,42 @@ class SpeechRecognizer:
             if self.progress_callback:
                 self.progress_callback(f"正在加载Whisper模型 ({self.model_name})...")
 
-            self.model = whisper.load_model(self.model_name, device=self.device)
+            # 优先从项目目录加载模型，如果不存在则从默认位置加载
+            model_path = self._get_model_path()
+            if model_path and os.path.exists(model_path):
+                # 从项目目录加载
+                self.model = whisper.load_model(model_path, device=self.device)
+            else:
+                # 从默认位置加载（打包后可能在资源目录中）
+                try:
+                    self.model = whisper.load_model(self.model_name, device=self.device)
+                except Exception:
+                    # 尝试从打包后的资源目录加载
+                    import sys
+                    if getattr(sys, 'frozen', False):
+                        # 打包后的环境
+                        bundle_dir = sys._MEIPASS
+                        model_path = os.path.join(bundle_dir, 'models', 'whisper', f'{self.model_name}.pt')
+                        if os.path.exists(model_path):
+                            self.model = whisper.load_model(model_path, device=self.device)
+                        else:
+                            raise FileNotFoundError(f"找不到Whisper模型文件: {model_path}")
+                    else:
+                        raise
 
             if self.progress_callback:
                 self.progress_callback("模型加载完成")
+
+    def _get_model_path(self) -> str:
+        """获取模型文件路径"""
+        # 检查项目目录中的模型
+        base_dir = config.BASE_DIR
+        model_path = base_dir / 'models' / 'whisper' / f'{self.model_name}.pt'
+
+        if model_path.exists():
+            return str(model_path)
+
+        return None
 
     def transcribe(self,
                    audio_path: str,

@@ -49,5 +49,8 @@ cache/
 *_bilingual.json
 *_bilingual.srt
 
+# Models (large files, handled separately)
+models/
+
 # Claude
 .claude/
