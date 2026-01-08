@@ -1,0 +1,992 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "id": 1,
+      "start": 21.880000000000006,
+      "end": 28.52,
+      "text_en": "The most important things I know about negotiation,",
+      "text_zh": "我所知道的关于谈判的最重要的事情"
+    },
+    {
+      "id": 2,
+      "start": 29.480000000000004,
+      "end": 33.8,
+      "text_en": "I learned in a kayak on my honeymoon.",
+      "text_zh": "我在蜜月时在皮划艇上学习。"
+    },
+    {
+      "id": 3,
+      "start": 37.32,
+      "end": 44.66,
+      "text_en": "Picture this, I arrive in Hawaii and I look adoring me at my brand new husband",
+      "text_zh": "想象一下，我到达夏威夷，我看起来很崇拜我的新丈夫"
+    },
+    {
+      "id": 4,
+      "start": 44.66,
+      "end": 49.08,
+      "text_en": "as we get in a two person kayak together for a river tour.",
+      "text_zh": "as we get in a two person kayak together for a river tour."
+    },
+    {
+      "id": 5,
+      "start": 50.36000000000001,
+      "end": 54.42,
+      "text_en": "Then things go wrong, fast.",
+      "text_zh": "然后事情就会出问题，速度很快。"
+    },
+    {
+      "id": 6,
+      "start": 55.42,
+      "end": 63.36,
+      "text_en": "You see, in a two person kayak, the passenger in the back, usually the larger passenger,",
+      "text_zh": "你看，在两人皮划艇中，后面的乘客，通常是体型较大的乘客，"
+    },
+    {
+      "id": 7,
+      "start": 63.98,
+      "end": 66.86,
+      "text_en": "is supposed to drive using their paddles.",
+      "text_zh": "应该使用他们的桨来驾驶。"
+    },
+    {
+      "id": 8,
+      "start": 67.7,
+      "end": 71.54,
+      "text_en": "Well, I didn't like how he was driving.",
+      "text_zh": "嗯，我不喜欢他开车的方式。"
+    },
+    {
+      "id": 9,
+      "start": 73.26,
+      "end": 76.52,
+      "text_en": "So I decided to drive my own way.",
+      "text_zh": "所以我决定自己开车。"
+    },
+    {
+      "id": 10,
+      "start": 77.52,
+      "end": 86.04,
+      "text_en": "And exactly at the moment I thought I had taken over, we flipped over.",
+      "text_zh": "就在我以为我已经接管了一切的那一刻，我们发生了翻天覆地的变化。"
+    },
+    {
+      "id": 11,
+      "start": 87.86,
+      "end": 90.28,
+      "text_en": "Three separate times.",
+      "text_zh": "分别三次。"
+    },
+    {
+      "id": 12,
+      "start": 91.9,
+      "end": 93.5,
+      "text_en": "Apparently we set a record.",
+      "text_zh": "显然我们创造了记录。"
+    },
+    {
+      "id": 13,
+      "start": 95.06,
+      "end": 103.96,
+      "text_en": "So I get back in the kayak, now dripping wet, when our guide up ahead turns back and says,",
+      "text_zh": "于是我回到了皮划艇上，浑身湿透了，这时我们前面的导游转过身来说道："
+    },
+    {
+      "id": 14,
+      "start": 103.96,
+      "end": 110.1,
+      "text_en": "okay folks, let's negotiate these things to the left because you're going to hit that beach up ahead.",
+      "text_zh": "好吧，伙计们，让我们向左协商这些事情，因为您将到达前面的海滩。"
+    },
+    {
+      "id": 15,
+      "start": 112.38,
+      "end": 114.78,
+      "text_en": "Negotiate the kayak.",
+      "text_zh": "协商皮划艇。"
+    },
+    {
+      "id": 16,
+      "start": 116.96,
+      "end": 123.88,
+      "text_en": "In that moment, I realized that although I had been teaching negotiation for a few years already,",
+      "text_zh": "在那一刻，我意识到虽然我已经教授谈判几年了，"
+    },
+    {
+      "id": 17,
+      "start": 124.64,
+      "end": 127.24,
+      "text_en": "I had missed something important.",
+      "text_zh": "我错过了一些重要的事情。"
+    },
+    {
+      "id": 18,
+      "start": 128.36,
+      "end": 131.14,
+      "text_en": "And I was not alone.",
+      "text_zh": "我并不孤单。"
+    },
+    {
+      "id": 19,
+      "start": 132.14,
+      "end": 136.14,
+      "text_en": "A lot of us have misconceptions about negotiation.",
+      "text_zh": "A lot of us have misconceptions about negotiation."
+    },
+    {
+      "id": 20,
+      "start": 136.96,
+      "end": 142.12,
+      "text_en": "We're taught that it's a battle over money, that it involves losing.",
+      "text_zh": "我们被告知这是一场金钱之争，它意味着失败。"
+    },
+    {
+      "id": 21,
+      "start": 143.18,
+      "end": 146.58,
+      "text_en": "So we either fear it or we avoid it altogether.",
+      "text_zh": "所以我们要么害怕它，要么完全避免它。"
+    },
+    {
+      "id": 22,
+      "start": 148.24,
+      "end": 155.54,
+      "text_en": "In fact, 54% of us didn't negotiate our last salary.",
+      "text_zh": "事实上，我们中有 54% 的人没有就最后一份薪水进行谈判。"
+    },
+    {
+      "id": 23,
+      "start": 157.18,
+      "end": 161.24,
+      "text_en": "That's from research, by the way, I'm not actually seeing into your souls.",
+      "text_zh": "顺便说一句，这是来自研究的结果，我实际上并没有洞察你的灵魂。"
+    },
+    {
+      "id": 24,
+      "start": 163.2,
+      "end": 172.78,
+      "text_en": "The fact is that before that guide, I had never heard anyone use the word negotiate that way before.",
+      "text_zh": "事实上，在该指南之前，我从未听过有人以这种方式使用“谈判”这个词。"
+    },
+    {
+      "id": 25,
+      "start": 173.58,
+      "end": 180.9,
+      "text_en": "I too had absorbed this message that it was a contest of wills, you know, like five minutes earlier,",
+      "text_zh": "我也吸收了这样的信息，那就是这是一场意志的较量，你知道，就像五分钟前一样，"
+    },
+    {
+      "id": 26,
+      "start": 180.9,
+      "end": 182.24,
+      "text_en": "when I don't do SIN the River.",
+      "text_zh": "当我不做河边的SIN的时候。"
+    },
+    {
+      "id": 27,
+      "start": 183.6,
+      "end": 186.28,
+      "text_en": "But there's another way to think about it, isn't there?",
+      "text_zh": "但还有另一种思考方式，不是吗？"
+    },
+    {
+      "id": 28,
+      "start": 187.52,
+      "end": 192.68,
+      "text_en": "When I negotiate my kayak toward a beach, what am I doing?",
+      "text_zh": "当我划着皮艇驶向海滩时，我在做什么？"
+    },
+    {
+      "id": 29,
+      "start": 194.0,
+      "end": 195.36,
+      "text_en": "I'm steering.",
+      "text_zh": "我在掌舵。"
+    },
+    {
+      "id": 30,
+      "start": 197.74,
+      "end": 206.2,
+      "text_en": "Today, I want to share five lessons about negotiation that just might change your life.",
+      "text_zh": "今天，我想分享五个有关谈判的教训，它们可能会改变你的生活。"
+    },
+    {
+      "id": 31,
+      "start": 207.2,
+      "end": 209.66,
+      "text_en": "And the first is this.",
+      "text_zh": "第一个是这个。"
+    },
+    {
+      "id": 32,
+      "start": 210.2,
+      "end": 213.2,
+      "text_en": "Negotiation is simply steering.",
+      "text_zh": "谈判只是指挥。"
+    },
+    {
+      "id": 33,
+      "start": 214.04,
+      "end": 219.36,
+      "text_en": "It is any conversation in which you are steering a relationship.",
+      "text_zh": "这是您在其中引导关系的任何对话。"
+    },
+    {
+      "id": 34,
+      "start": 220.18,
+      "end": 224.38,
+      "text_en": "And it's so much more than the money conversations.",
+      "text_zh": "这不仅仅是金钱方面的对话。"
+    },
+    {
+      "id": 35,
+      "start": 225.34,
+      "end": 230.48,
+      "text_en": "You know, just like a kayak where we want to steer consistently to get to our goal,",
+      "text_zh": "你知道，就像一艘皮划艇，我们要不断地驾驶以达到我们的目标，"
+    },
+    {
+      "id": 36,
+      "start": 231.48,
+      "end": 236.84,
+      "text_en": "we can be steering our relationships almost every minute of the day.",
+      "text_zh": "我们几乎每时每刻都可以掌控我们的关系。"
+    },
+    {
+      "id": 37,
+      "start": 237.88,
+      "end": 246.4,
+      "text_en": "You know, when I got back from that honeymoon, I looked around and I saw opportunities to negotiate everywhere.",
+      "text_zh": "你知道，当我蜜月回来后，我环顾四周，发现谈判的机会无处不在。"
+    },
+    {
+      "id": 38,
+      "start": 247.16,
+      "end": 253.24,
+      "text_en": "I could be getting to know my boss is better so that I understood what they prioritized most.",
+      "text_zh": "我可以更好地了解我的老板，这样我就能明白他们最优先考虑的是什么。"
+    },
+    {
+      "id": 39,
+      "start": 254.24,
+      "end": 259.7,
+      "text_en": "I could be calling my clients regularly and asking them what was new in their businesses.",
+      "text_zh": "我可以定期打电话给我的客户，询问他们的业务有什么新变化。"
+    },
+    {
+      "id": 40,
+      "start": 260.84,
+      "end": 263.0,
+      "text_en": "And I realized something powerful.",
+      "text_zh": "我意识到了一些强大的东西。"
+    },
+    {
+      "id": 41,
+      "start": 263.76,
+      "end": 272.42,
+      "text_en": "If we intentionally focus on the everyday steering, what happens when we do get to the money conversations?",
+      "text_zh": "如果我们有意专注于日常指导，那么当我们真正讨论金钱问题时会发生什么？"
+    },
+    {
+      "id": 42,
+      "start": 273.28,
+      "end": 280.02,
+      "text_en": "We are more likely to be successful, which brings me to lesson two.",
+      "text_zh": "我们更有可能成功，这让我想到了第二个教训。"
+    },
+    {
+      "id": 43,
+      "start": 281.53999999999996,
+      "end": 285.42,
+      "text_en": "Curious people make more money.",
+      "text_zh": "好奇的人赚更多的钱。"
+    },
+    {
+      "id": 44,
+      "start": 287.06,
+      "end": 291.94,
+      "text_en": "There's one negotiation technique that most of us are not using.",
+      "text_zh": "我们大多数人都没有使用一种谈判技巧。"
+    },
+    {
+      "id": 45,
+      "start": 292.94,
+      "end": 298.1,
+      "text_en": "So years ago, a professor set people up to negotiate as part of a study.",
+      "text_zh": "So years ago, a professor set people up to negotiate as part of a study."
+    },
+    {
+      "id": 46,
+      "start": 298.92,
+      "end": 303.42,
+      "text_en": "Only 7% of those people achieved the optimal outcome.",
+      "text_zh": "其中只有 7% 的人取得了最佳结果。"
+    },
+    {
+      "id": 47,
+      "start": 304.4,
+      "end": 305.1,
+      "text_en": "What did they do?",
+      "text_zh": "他们做了什么？"
+    },
+    {
+      "id": 48,
+      "start": 305.76,
+      "end": 308.62,
+      "text_en": "Well, they didn't lead with their points.",
+      "text_zh": "好吧，他们没有以他们的观点领先。"
+    },
+    {
+      "id": 49,
+      "start": 309.62,
+      "end": 311.9,
+      "text_en": "They asked questions first.",
+      "text_zh": "他们首先提出问题。"
+    },
+    {
+      "id": 50,
+      "start": 313.16,
+      "end": 320.34,
+      "text_en": "Bottom line in negotiation, you get more by asking questions than you do by arguing.",
+      "text_zh": "在谈判中，最重要的是，提出问题比争论能得到更多。"
+    },
+    {
+      "id": 51,
+      "start": 321.12,
+      "end": 323.06,
+      "text_en": "But not just any questions.",
+      "text_zh": "但不仅仅是任何问题。"
+    },
+    {
+      "id": 52,
+      "start": 323.78,
+      "end": 328.12,
+      "text_en": "That 7% they asked open questions.",
+      "text_zh": "那 7% 他们提出了开放性问题。"
+    },
+    {
+      "id": 53,
+      "start": 328.74,
+      "end": 333.86,
+      "text_en": "Questions that uncovered the other person's needs, concerns and goals.",
+      "text_zh": "揭示对方的需求、关注点和目标的问题。"
+    },
+    {
+      "id": 54,
+      "start": 334.76,
+      "end": 337.92,
+      "text_en": "And most of us aren't great at that.",
+      "text_zh": "而我们大多数人都不擅长这一点。"
+    },
+    {
+      "id": 55,
+      "start": 339.18,
+      "end": 344.06,
+      "text_en": "When I teach people about asking questions, I say, okay, I've just taken a trip.",
+      "text_zh": "当我教人们如何提问时，我会说，好吧，我刚刚旅行过。"
+    },
+    {
+      "id": 56,
+      "start": 345.02,
+      "end": 347.62,
+      "text_en": "What can you ask me to get some good information?",
+      "text_zh": "您可以向我询问什么以获得一些有用的信息？"
+    },
+    {
+      "id": 57,
+      "start": 349.04,
+      "end": 350.72,
+      "text_en": "Top two questions they ask?",
+      "text_zh": "他们最常问的两个问题是？"
+    },
+    {
+      "id": 58,
+      "start": 351.54,
+      "end": 352.6,
+      "text_en": "I bet you could guess.",
+      "text_zh": "我打赌你能猜到。"
+    },
+    {
+      "id": 59,
+      "start": 353.56,
+      "end": 355.94,
+      "text_en": "Number one, where did you go?",
+      "text_zh": "第一，你去哪儿了？"
+    },
+    {
+      "id": 60,
+      "start": 357.58,
+      "end": 357.96,
+      "text_en": "Reno.",
+      "text_zh": "里诺。"
+    },
+    {
+      "id": 61,
+      "start": 359.76,
+      "end": 361.08,
+      "text_en": "Did you have a good time?",
+      "text_zh": "你玩得开心吗？"
+    },
+    {
+      "id": 62,
+      "start": 362.08,
+      "end": 362.8,
+      "text_en": "Yeah.",
+      "text_zh": "是的。"
+    },
+    {
+      "id": 63,
+      "start": 364.76,
+      "end": 366.92,
+      "text_en": "Two closed questions.",
+      "text_zh": "两个封闭式问题。"
+    },
+    {
+      "id": 64,
+      "start": 367.88,
+      "end": 369.78,
+      "text_en": "Two one word answers.",
+      "text_zh": "两个字回答。"
+    },
+    {
+      "id": 65,
+      "start": 370.76,
+      "end": 373.44,
+      "text_en": "So, what's the best question?",
+      "text_zh": "那么，最好的问题是什么？"
+    },
+    {
+      "id": 66,
+      "start": 374.22,
+      "end": 383.42,
+      "text_en": "Well, it's a little bit of a trick because technically, the best question of all doesn't end with a question mark.",
+      "text_zh": "嗯，这有点诡计，因为从技术上讲，最好的问题并不是以问号结尾。"
+    },
+    {
+      "id": 67,
+      "start": 384.16,
+      "end": 387.92,
+      "text_en": "It's, tell me all about your vacation.",
+      "text_zh": "是的，告诉我你假期的一切。"
+    },
+    {
+      "id": 68,
+      "start": 388.97999999999996,
+      "end": 399.78,
+      "text_en": "Tell me is the biggest question you can ask and it is the most powerful first question in any negotiation at work or at home.",
+      "text_zh": "告诉我是你可以问的最大问题，也是工作或家庭谈判中最有力的第一个问题。"
+    },
+    {
+      "id": 69,
+      "start": 400.68,
+      "end": 406.42,
+      "text_en": "With the hiring manager, tell me how the company sees the salary range for this position.",
+      "text_zh": "与招聘经理一起，告诉我公司如何看待这个职位的薪资范围。"
+    },
+    {
+      "id": 70,
+      "start": 407.66,
+      "end": 413.74,
+      "text_en": "With your teenager, tell me what's making you ask for a $50 a week allowance.",
+      "text_zh": "和你十几岁的孩子一起，告诉我是什么让你要求每周 50 美元的津贴。"
+    },
+    {
+      "id": 71,
+      "start": 415.72,
+      "end": 424.7,
+      "text_en": "Tell me gets you the most information, but it also builds trust so it creates the best deals.",
+      "text_zh": "告诉我可以为您提供最多的信息，同时也可以建立信任，从而创造出最好的交易。"
+    },
+    {
+      "id": 72,
+      "start": 426.3,
+      "end": 427.6,
+      "text_en": "Lesson three.",
+      "text_zh": "第三课。"
+    },
+    {
+      "id": 73,
+      "start": 429.18,
+      "end": 434.32,
+      "text_en": "The negotiation starts before the negotiation starts.",
+      "text_zh": "谈判在谈判开始之前就开始了。"
+    },
+    {
+      "id": 74,
+      "start": 435.74,
+      "end": 442.12,
+      "text_en": "Most people don't know that every negotiation actually comes in two parts.",
+      "text_zh": "大多数人不知道每次谈判实际上都分为两个部分。"
+    },
+    {
+      "id": 75,
+      "start": 443.12,
+      "end": 445.28,
+      "text_en": "The second part we all know about.",
+      "text_zh": "第二部分我们都知道。"
+    },
+    {
+      "id": 76,
+      "start": 445.68,
+      "end": 448.14,
+      "text_en": "That's where we're sitting down with someone else.",
+      "text_zh": "那就是我们和别人坐在一起的地方。"
+    },
+    {
+      "id": 77,
+      "start": 448.82,
+      "end": 454.5,
+      "text_en": "But that first part, that's what I call the mirror.",
+      "text_zh": "但第一部分，就是我所说的镜子。"
+    },
+    {
+      "id": 78,
+      "start": 456.12,
+      "end": 463.96,
+      "text_en": "Because we have to negotiate with ourselves first before we negotiate with anyone else.",
+      "text_zh": "因为在与别人谈判之前，我们必须先与自己谈判。"
+    },
+    {
+      "id": 79,
+      "start": 464.64,
+      "end": 468.04,
+      "text_en": "And it's the most critical part of the negotiation too.",
+      "text_zh": "这也是谈判中最关键的部分。"
+    },
+    {
+      "id": 80,
+      "start": 469.04,
+      "end": 473.32,
+      "text_en": "Because if we don't get this right, the negotiation stops there.",
+      "text_zh": "因为如果我们做不好这一点，谈判就会停止。"
+    },
+    {
+      "id": 81,
+      "start": 475.04,
+      "end": 475.8,
+      "text_en": "We don't ask.",
+      "text_zh": "我们不问。"
+    },
+    {
+      "id": 82,
+      "start": 476.72,
+      "end": 479.1,
+      "text_en": "We get confused about our priorities.",
+      "text_zh": "我们对自己的优先事项感到困惑。"
+    },
+    {
+      "id": 83,
+      "start": 480.16,
+      "end": 484.44,
+      "text_en": "We shut ourselves down before we give anybody else the chance.",
+      "text_zh": "我们在给别人机会之前就关闭了自己。"
+    },
+    {
+      "id": 84,
+      "start": 485.98,
+      "end": 495.78,
+      "text_en": "If you want to master the mirror, try asking yourself, how have I handled something like this successfully before?",
+      "text_zh": "如果你想掌握镜子，试着问问自己，我以前是如何成功处理过类似的事情的？"
+    },
+    {
+      "id": 85,
+      "start": 496.78,
+      "end": 507.24,
+      "text_en": "Did you know that research shows if we think about a time and write it down that we achieved great results before we go into negotiate?",
+      "text_zh": "您是否知道，研究表明，如果我们在开始谈判之前考虑一下并写下来，我们就会取得很好的成果？"
+    },
+    {
+      "id": 86,
+      "start": 508.02,
+      "end": 510.6,
+      "text_en": "We are more likely to negotiate well.",
+      "text_zh": "我们更有可能顺利谈判。"
+    },
+    {
+      "id": 87,
+      "start": 511.58,
+      "end": 511.94,
+      "text_en": "Why?",
+      "text_zh": "为什么？"
+    },
+    {
+      "id": 88,
+      "start": 512.9,
+      "end": 518.26,
+      "text_en": "Because we remind ourselves of who we are at our most powerful.",
+      "text_zh": "因为我们提醒自己，我们最强大的时候是谁。"
+    },
+    {
+      "id": 89,
+      "start": 519.12,
+      "end": 523.78,
+      "text_en": "And we also gather data on strategies that are likely to work for us.",
+      "text_zh": "And we also gather data on strategies that are likely to work for us."
+    },
+    {
+      "id": 90,
+      "start": 524.88,
+      "end": 530.4,
+      "text_en": "I once counseled someone named Mae who was struggling to ask for a raise.",
+      "text_zh": "我曾经为一位名叫梅的人提供咨询，她正在努力要求加薪。"
+    },
+    {
+      "id": 91,
+      "start": 531.32,
+      "end": 536.56,
+      "text_en": "In Mae's family, they were taught that you should wait until something was offered to you.",
+      "text_zh": "在梅的家里，他们被教导要等待，直到有人向你提供某样东西。"
+    },
+    {
+      "id": 92,
+      "start": 537.72,
+      "end": 542.82,
+      "text_en": "So I asked Mae about the last time she successfully advocated for herself.",
+      "text_zh": "所以我问梅上次成功为自己辩护是什么时候。"
+    },
+    {
+      "id": 93,
+      "start": 544.2,
+      "end": 551.28,
+      "text_en": "And she told me she actually felt really confident negotiating for the job in the first place.",
+      "text_zh": "她告诉我，她实际上对谈判这份工作一开始就非常有信心。"
+    },
+    {
+      "id": 94,
+      "start": 552.28,
+      "end": 557.7,
+      "text_en": "She really believed in the company's mission and she felt confident she could contribute.",
+      "text_zh": "She really believed in the company's mission and she felt confident she could contribute."
+    },
+    {
+      "id": 95,
+      "start": 558.88,
+      "end": 565.44,
+      "text_en": "You know, as Mae wrote this down, I saw her face change and her confidence grow.",
+      "text_zh": "你知道，当梅写下这段话时，我看到她的脸色发生了变化，她的信心也增强了。"
+    },
+    {
+      "id": 96,
+      "start": 566.48,
+      "end": 569.84,
+      "text_en": "Mae went in and she got that raise.",
+      "text_zh": "梅进去了，她得到了加薪。"
+    },
+    {
+      "id": 97,
+      "start": 572.38,
+      "end": 573.16,
+      "text_en": "Lesson 4.",
+      "text_zh": "第 4 课。"
+    },
+    {
+      "id": 98,
+      "start": 575.2,
+      "end": 576.8,
+      "text_en": "Land the plane.",
+      "text_zh": "让飞机着陆。"
+    },
+    {
+      "id": 99,
+      "start": 578.0799999999999,
+      "end": 586.2,
+      "text_en": "I worked with a brilliant sales executive named Brody who sometimes would lose deals because he talked too much.",
+      "text_zh": "我曾与一位名叫布罗迪（Brody）的出色销售主管共事，他有时会因为说话太多而失去交易。"
+    },
+    {
+      "id": 100,
+      "start": 587.28,
+      "end": 594.38,
+      "text_en": "He'd ask a great question and then he would get scared of the silence so he would eat it up with his words.",
+      "text_zh": "他会问一个很好的问题，然后他会害怕沉默，所以他会用自己的话来消化它。"
+    },
+    {
+      "id": 101,
+      "start": 595.88,
+      "end": 597.92,
+      "text_en": "What do you need to get this done here today?",
+      "text_zh": "今天你需要什么才能在这里完成这件事？"
+    },
+    {
+      "id": 102,
+      "start": 598.76,
+      "end": 605.64,
+      "text_en": "Well, I know our price point might be a little bit higher than that of our competitors, but I think if you go ahead and look at our customer reviews,",
+      "text_zh": "嗯，我知道我们的价格可能比竞争对手高一点，但我认为如果您继续查看我们的客户评论，"
+    },
+    {
+      "id": 103,
+      "start": 608.38,
+      "end": 610.34,
+      "text_en": "want to know the secret to great deals?",
+      "text_zh": "想知道超值优惠的秘诀吗？"
+    },
+    {
+      "id": 104,
+      "start": 612.52,
+      "end": 613.3,
+      "text_en": "Shut up.",
+      "text_zh": "住口。"
+    },
+    {
+      "id": 105,
+      "start": 615.22,
+      "end": 627.68,
+      "text_en": "Recent research found that leaving a period of silence in negotiation, not only made it more likely that the other person would give you a high value move.",
+      "text_zh": "最近的研究发现，在谈判中留下一段时间的沉默，不仅会让对方更有可能给你一个高价值的举动。"
+    },
+    {
+      "id": 106,
+      "start": 627.92,
+      "end": 631.36,
+      "text_en": "But it also came across as collaborative.",
+      "text_zh": "但它也给人一种协作的感觉。"
+    },
+    {
+      "id": 107,
+      "start": 632.26,
+      "end": 634.88,
+      "text_en": "So, how much silence?",
+      "text_zh": "那么，沉默到什么程度呢？"
+    },
+    {
+      "id": 108,
+      "start": 640.52,
+      "end": 647.04,
+      "text_en": "I just did it three and a half seconds. See? You were nervous, but we all survived.",
+      "text_zh": "我只用了三分半钟。看？你很紧张，但我们都活了下来。"
+    },
+    {
+      "id": 109,
+      "start": 648.8,
+      "end": 651.72,
+      "text_en": "That's what I call landing the plane.",
+      "text_zh": "这就是我所说的飞机着陆。"
+    },
+    {
+      "id": 110,
+      "start": 652.72,
+      "end": 657.92,
+      "text_en": "Ask your question, make your proposal and then zip it.",
+      "text_zh": "提出你的问题，提出你的建议，然后压缩它。"
+    },
+    {
+      "id": 111,
+      "start": 659.14,
+      "end": 662.12,
+      "text_en": "And finally, lesson 5.",
+      "text_zh": "最后是第 5 课。"
+    },
+    {
+      "id": 112,
+      "start": 663.3,
+      "end": 667.54,
+      "text_en": "Make your adversary your partner.",
+      "text_zh": "让你的对手成为你的伙伴。"
+    },
+    {
+      "id": 113,
+      "start": 668.64,
+      "end": 670.18,
+      "text_en": "It's 3 a.m.",
+      "text_zh": "现在是凌晨 3 点。"
+    },
+    {
+      "id": 114,
+      "start": 671.32,
+      "end": 679.72,
+      "text_en": "And you have five hours to go before the entire world is expecting you and several other countries to announce a peace deal.",
+      "text_zh": "距离全世界都期待你和其他几个国家宣布和平协议还有五个小时。"
+    },
+    {
+      "id": 115,
+      "start": 679.72,
+      "end": 694.2,
+      "text_en": "But right now, you have a problem because one of the other countries diplomats has left the building and is down in the parking lot threatening to drive away because he feels disrespected.",
+      "text_zh": "但现在，你遇到了一个问题，因为其他国家的一名外交官已经离开大楼，并在停车场威胁要开车离开，因为他感到不受尊重。"
+    },
+    {
+      "id": 116,
+      "start": 695.86,
+      "end": 700.74,
+      "text_en": "This was the situation that one of the diplomats I work with faced.",
+      "text_zh": "这就是与我共事的一位外交官所面临的情况。"
+    },
+    {
+      "id": 117,
+      "start": 701.42,
+      "end": 705.52,
+      "text_en": "But a lot of us face things like this in our everyday negotiations.",
+      "text_zh": "But a lot of us face things like this in our everyday negotiations."
+    },
+    {
+      "id": 118,
+      "start": 706.52,
+      "end": 712.86,
+      "text_en": "So much of the popular wisdom talks about our adversary, our opponent.",
+      "text_zh": "So much of the popular wisdom talks about our adversary, our opponent."
+    },
+    {
+      "id": 119,
+      "start": 713.48,
+      "end": 725.4,
+      "text_en": "Well, in most everyday negotiations, that adversary at the bargaining table becomes our partner once that deal is done.",
+      "text_zh": "嗯，在大多数日常谈判中，一旦交易完成，谈判桌上的对手就会成为我们的合作伙伴。"
+    },
+    {
+      "id": 120,
+      "start": 726.54,
+      "end": 733.12,
+      "text_en": "The boss who holds the keys to your raise, once you get it, you're working together.",
+      "text_zh": "老板掌握着你加薪的钥匙，一旦你得到加薪，你们就可以一起工作。"
+    },
+    {
+      "id": 121,
+      "start": 733.94,
+      "end": 737.94,
+      "text_en": "Or that home contractor you're negotiating with over your kitchen.",
+      "text_zh": "或者是你正在与厨房谈判的家庭承包商。"
+    },
+    {
+      "id": 122,
+      "start": 738.94,
+      "end": 745.6,
+      "text_en": "Once you settle on a price, you're trusting her to build a room you're going to love for years to come.",
+      "text_zh": "Once you settle on a price, you're trusting her to build a room you're going to love for years to come."
+    },
+    {
+      "id": 123,
+      "start": 747.24,
+      "end": 758.02,
+      "text_en": "And even when your spouse might feel like an opponent, well, you're still sleeping in the same bed at the end of the day.",
+      "text_zh": "即使你的配偶可能感觉自己是一个对手，好吧，一天结束时你们仍然睡在同一张床上。"
+    },
+    {
+      "id": 124,
+      "start": 759.0200000000001,
+      "end": 768.52,
+      "text_en": "That diplomat I worked with, he walked out of the building down to the parking lot and he approached the man who had left.",
+      "text_zh": "与我共事的那位外交官走出大楼，来到停车场，走近那位离开的人。"
+    },
+    {
+      "id": 125,
+      "start": 769.8,
+      "end": 774.8,
+      "text_en": "He said to him, we are on the same side.",
+      "text_zh": "他对他说，我们是同一边的。"
+    },
+    {
+      "id": 126,
+      "start": 775.98,
+      "end": 776.62,
+      "text_en": "He listened.",
+      "text_zh": "他听着。"
+    },
+    {
+      "id": 127,
+      "start": 778.12,
+      "end": 786.0,
+      "text_en": "Eventually, the two men walked together back into that building and later they announced that peace deal.",
+      "text_zh": "最终，两人一起走回那栋大楼，随后宣布了和平协议。"
+    },
+    {
+      "id": 128,
+      "start": 787.74,
+      "end": 790.84,
+      "text_en": "My negotiation motto is this.",
+      "text_zh": "我的谈判座右铭是这样的。"
+    },
+    {
+      "id": 129,
+      "start": 792.38,
+      "end": 793.88,
+      "text_en": "I never request.",
+      "text_zh": "我从不要求。"
+    },
+    {
+      "id": 130,
+      "start": 795.2,
+      "end": 796.8,
+      "text_en": "I recruit.",
+      "text_zh": "我招募。"
+    },
+    {
+      "id": 131,
+      "start": 798.36,
+      "end": 801.64,
+      "text_en": "I don't want to talk to someone across the table.",
+      "text_zh": "我不想和桌子对面的人说话。"
+    },
+    {
+      "id": 132,
+      "start": 802.44,
+      "end": 813.06,
+      "text_en": "I want to pull them around with questions to my side of the table so that we are now co-penspirators working toward the same goal.",
+      "text_zh": "我想把他们拉过来，向我这边提出问题，这样我们现在就成为为同一目标而努力的共同参与者。"
+    },
+    {
+      "id": 133,
+      "start": 814.68,
+      "end": 818.0,
+      "text_en": "Negotiation is not about it.",
+      "text_zh": "谈判不是这个问题。"
+    },
+    {
+      "id": 134,
+      "start": 818.48,
+      "end": 820.76,
+      "text_en": "It is simply steering.",
+      "text_zh": "这只是转向。"
+    },
+    {
+      "id": 135,
+      "start": 822.18,
+      "end": 830.64,
+      "text_en": "And if we lead with curiosity about ourselves and about others, we won't just create great deals.",
+      "text_zh": "如果我们以对自己和他人的好奇心来领导，我们将不仅仅创造伟大的交易。"
+    },
+    {
+      "id": 136,
+      "start": 831.2,
+      "end": 835.36,
+      "text_en": "We'll create great relationships along the way.",
+      "text_zh": "我们将一路建立良好的关系。"
+    },
+    {
+      "id": 137,
+      "start": 837.0,
+      "end": 844.68,
+      "text_en": "Speaking of which, you might be wondering, what happened after the honeymoon?",
+      "text_zh": "说到这里，你可能会想，蜜月之后发生了什么？"
+    },
+    {
+      "id": 138,
+      "start": 847.0600000000001,
+      "end": 855.3,
+      "text_en": "Well, I'm glad to report that my husband and I have been happily steering together for 18 years.",
+      "text_zh": "好吧，我很高兴地向大家报告，我和丈夫已经愉快地一起掌舵 18 年了。"
+    },
+    {
+      "id": 139,
+      "start": 861.4999999999999,
+      "end": 863.9,
+      "text_en": "Just not in a kayak.",
+      "text_zh": "只是不在皮艇里。"
+    },
+    {
+      "id": 140,
+      "start": 866.2,
+      "end": 867.46,
+      "text_en": "Thank you.",
+      "text_zh": "谢谢。"
+    },
+    {
+      "id": 141,
+      "start": 885.3,
+      "end": 886.92,
+      "text_en": "You",
+      "text_zh": "你"
+    }
+  ]
+}

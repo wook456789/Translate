@@ -1,0 +1,978 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.3399999999999945,
+      "end": 12.72,
+      "text_en": "I am so excited to be here to talk to you about work that is not glamorous, like cleaning",
+      "text_zh": "我很高兴能在这里和你们谈论一些并不光鲜亮丽的工作，比如清洁工作"
+    },
+    {
+      "id": 2,
+      "start": 12.72,
+      "end": 18.6,
+      "text_en": "bathrooms, shelving tomatoes, picking up trash or bathing the elderly.",
+      "text_zh": "浴室、搁置西红柿、捡垃圾或给老人洗澡。"
+    },
+    {
+      "id": 3,
+      "start": 19.92,
+      "end": 27.08,
+      "text_en": "During the pandemic, we call the workers who do this work essential because our world",
+      "text_zh": "在大流行期间，我们称从事这项工作的工人至关重要，因为我们的世界"
+    },
+    {
+      "id": 4,
+      "start": 27.08,
+      "end": 29.76,
+      "text_en": "literally stops without them.",
+      "text_zh": "没有它们就真的停止了。"
+    },
+    {
+      "id": 5,
+      "start": 30.74,
+      "end": 32.92,
+      "text_en": "Remember how we used to clap for them?",
+      "text_zh": "还记得我们以前是如何为他们鼓掌的吗？"
+    },
+    {
+      "id": 6,
+      "start": 33.6,
+      "end": 39.02,
+      "text_en": "You know, we've been talking a lot about AI robots, but this work is also unlikely to be",
+      "text_zh": "你知道，我们一直在谈论人工智能机器人，但这项工作也不太可能"
+    },
+    {
+      "id": 7,
+      "start": 39.02,
+      "end": 39.56,
+      "text_en": "automated.",
+      "text_zh": "自动化。"
+    },
+    {
+      "id": 8,
+      "start": 40.06,
+      "end": 47.04,
+      "text_en": "So these jobs are here to stay, but a lot of people can do this work.",
+      "text_zh": "因此，这些工作将继续存在，但很多人都可以胜任这项工作。"
+    },
+    {
+      "id": 9,
+      "start": 47.72,
+      "end": 51.8,
+      "text_en": "So the wages that are set by the market are low.",
+      "text_zh": "So the wages that are set by the market are low."
+    },
+    {
+      "id": 10,
+      "start": 52.8,
+      "end": 59.62,
+      "text_en": "In fact, market pay is often unlivable pay and tens of millions of essential workers",
+      "text_zh": "事实上，市场工资往往难以维持生活，而数以千万计的必要工人"
+    },
+    {
+      "id": 11,
+      "start": 60.4,
+      "end": 67.46,
+      "text_en": "live in a vicious cycle of poverty and lack dignity, which also hurts their companies.",
+      "text_zh": "生活在贫困和缺乏尊严的恶性循环中，这也伤害了他们的公司。"
+    },
+    {
+      "id": 12,
+      "start": 68.96,
+      "end": 73.38,
+      "text_en": "Take Janet, a full-time, hourly manager at a retail chain.",
+      "text_zh": "以珍妮特为例，她是一家零售连锁店的全职小时工经理。"
+    },
+    {
+      "id": 13,
+      "start": 73.94,
+      "end": 79.04,
+      "text_en": "Even as a manager, her low income didn't pay the bills for her and her son.",
+      "text_zh": "即使作为一名经理，她的低收入也无法支付她和儿子的账单。"
+    },
+    {
+      "id": 14,
+      "start": 79.76,
+      "end": 81.04,
+      "text_en": "So she had to have a second job.",
+      "text_zh": "所以她必须有第二份工作。"
+    },
+    {
+      "id": 15,
+      "start": 81.86,
+      "end": 86.58,
+      "text_en": "But she couldn't hold on to her second job because her work schedule changed all the time.",
+      "text_zh": "但她无法保住第二份工作，因为她的工作安排一直在变化。"
+    },
+    {
+      "id": 16,
+      "start": 87.36,
+      "end": 90.26,
+      "text_en": "One day, she might work from 5 p.m. to 9 p.m.",
+      "text_zh": "有一天，她可能会从下午 5 点开始工作。至晚上 9 点"
+    },
+    {
+      "id": 17,
+      "start": 90.88,
+      "end": 94.58,
+      "text_en": "The next morning, her shift might start at 5 a.m.",
+      "text_zh": "第二天早上，她的轮班时间可能是早上 5 点开始。"
+    },
+    {
+      "id": 18,
+      "start": 95.28,
+      "end": 99.98,
+      "text_en": "Just imagine her life and imagine how little time she had with her son.",
+      "text_zh": "想象一下她的生活，想象一下她和儿子在一起的时间是多么少。"
+    },
+    {
+      "id": 19,
+      "start": 101.06,
+      "end": 103.0,
+      "text_en": "My life is always in a turmoil.",
+      "text_zh": "我的生活总是处于混乱之中。"
+    },
+    {
+      "id": 20,
+      "start": 103.56,
+      "end": 104.24,
+      "text_en": "Janet told me.",
+      "text_zh": "珍妮特告诉我的。"
+    },
+    {
+      "id": 21,
+      "start": 104.96,
+      "end": 105.52,
+      "text_en": "She couldn't sleep.",
+      "text_zh": "她无法入睡。"
+    },
+    {
+      "id": 22,
+      "start": 107.72,
+      "end": 111.82,
+      "text_en": "Amazingly, though, she still cared so much about doing a good job at work.",
+      "text_zh": "但令人惊讶的是，她仍然非常关心如何做好工作。"
+    },
+    {
+      "id": 23,
+      "start": 112.58,
+      "end": 116.34,
+      "text_en": "But even there, she failed in front of her customers all the time.",
+      "text_zh": "但即使在那里，她在顾客面前也总是失败。"
+    },
+    {
+      "id": 24,
+      "start": 116.9,
+      "end": 122.66,
+      "text_en": "One day, she said to me, customers were yelling at her because the checkout line was too long.",
+      "text_zh": "One day, she said to me, customers were yelling at her because the checkout line was too long."
+    },
+    {
+      "id": 25,
+      "start": 123.48,
+      "end": 125.8,
+      "text_en": "Some walked off leaving their full baskets.",
+      "text_zh": "有些人留下了满满的篮子就走开了。"
+    },
+    {
+      "id": 26,
+      "start": 127.04,
+      "end": 131.14,
+      "text_en": "The line was too long because there weren't enough workers at the store.",
+      "text_zh": "由于店内人手不够，队伍排得很长。"
+    },
+    {
+      "id": 27,
+      "start": 132.01999999999998,
+      "end": 138.78,
+      "text_en": "And so many of the workers who were there were new, so they were slow and made a lot of mistakes.",
+      "text_zh": "而且那里的工人很多都是新人，所以他们动作很慢，而且犯了很多错误。"
+    },
+    {
+      "id": 28,
+      "start": 139.3,
+      "end": 144.08,
+      "text_en": "They put the wrong product on the wrong shelf or left the expired milk in the fridge.",
+      "text_zh": "他们将错误的产品放在错误的货架上或将过期的牛奶留在冰箱中。"
+    },
+    {
+      "id": 29,
+      "start": 145.04,
+      "end": 147.54,
+      "text_en": "When customers quote mistakes at the checkout,",
+      "text_zh": "当顾客在结帐时提出错误时，"
+    },
+    {
+      "id": 30,
+      "start": 148.44,
+      "end": 155.88,
+      "text_en": "cashiers had to call Janet for help every time because they weren't trusted to adjust prices",
+      "text_zh": "收银员每次都不得不打电话给珍妮特寻求帮助，因为他们不被信任可以调整价格"
+    },
+    {
+      "id": 31,
+      "start": 155.88,
+      "end": 158.62,
+      "text_en": "or even solve the smallest problems.",
+      "text_zh": "甚至解决最小的问题。"
+    },
+    {
+      "id": 32,
+      "start": 159.34,
+      "end": 164.14,
+      "text_en": "Controls like that drove people crazy and wasted everyone's time.",
+      "text_zh": "这样的控制让人发疯，浪费了每个人的时间。"
+    },
+    {
+      "id": 33,
+      "start": 165.22,
+      "end": 167.64,
+      "text_en": "Janet begged for more staff.",
+      "text_zh": "珍妮特请求增加员工。"
+    },
+    {
+      "id": 34,
+      "start": 168.94,
+      "end": 172.3,
+      "text_en": "But her stores for performance meant even a lower labor budget,",
+      "text_zh": "但她的商店的绩效意味着更低的劳动力预算，"
+    },
+    {
+      "id": 35,
+      "start": 172.3,
+      "end": 175.02,
+      "text_en": "which meant more mistakes and higher turnover.",
+      "text_zh": "这意味着更多的错误和更高的营业额。"
+    },
+    {
+      "id": 36,
+      "start": 176.08,
+      "end": 178.82,
+      "text_en": "So she was always starting from square one,",
+      "text_zh": "所以她总是从一开始，"
+    },
+    {
+      "id": 37,
+      "start": 179.42,
+      "end": 183.12,
+      "text_en": "rehiring, retraining, more firefighting.",
+      "text_zh": "重新雇用、再培训、更多的救火工作。"
+    },
+    {
+      "id": 38,
+      "start": 183.76,
+      "end": 188.32,
+      "text_en": "You know, these dynamics are so common in labor intensive services,",
+      "text_zh": "你知道，这些动态在劳动密集型服务业中非常常见，"
+    },
+    {
+      "id": 39,
+      "start": 188.56,
+      "end": 191.86,
+      "text_en": "like retail stores, restaurants, call centers, nursing homes, hotels,",
+      "text_zh": "例如零售店、餐馆、呼叫中心、疗养院、酒店、"
+    },
+    {
+      "id": 40,
+      "start": 192.46,
+      "end": 197.12,
+      "text_en": "that it seems like it's the only way for companies to keep their costs down.",
+      "text_zh": "这似乎是公司降低成本的唯一途径。"
+    },
+    {
+      "id": 41,
+      "start": 197.96,
+      "end": 198.54,
+      "text_en": "But it's not.",
+      "text_zh": "但事实并非如此。"
+    },
+    {
+      "id": 42,
+      "start": 199.6,
+      "end": 203.52,
+      "text_en": "You know, it's true, Janet's company isn't spending the money on labor,",
+      "text_zh": "你知道，确实如此，珍妮特的公司并没有把钱花在劳动力上，"
+    },
+    {
+      "id": 43,
+      "start": 204.54,
+      "end": 210.08,
+      "text_en": "but they are spending the money on rehiring, retraining,",
+      "text_zh": "但他们把钱花在重新雇用、再培训上"
+    },
+    {
+      "id": 44,
+      "start": 210.8,
+      "end": 215.54,
+      "text_en": "on low sales from long lines, empty shelves, and poor service.",
+      "text_zh": "排长队、空货架和糟糕的服务导致销量低迷。"
+    },
+    {
+      "id": 45,
+      "start": 216.56,
+      "end": 222.38,
+      "text_en": "On all the wasted products and wasted time, now I'm an operations management professor",
+      "text_zh": "关于所有浪费的产品和浪费的时间，现在我是一名运营管理教授"
+    },
+    {
+      "id": 46,
+      "start": 222.38,
+      "end": 227.92,
+      "text_en": "at MIT. We can't stand waste or inefficiency in operations.",
+      "text_zh": "at MIT. We can't stand waste or inefficiency in operations."
+    },
+    {
+      "id": 47,
+      "start": 228.72,
+      "end": 234.12,
+      "text_en": "So that's the reason that I began researching service operations 25 years ago.",
+      "text_zh": "这就是我 25 年前开始研究服务运营的原因。"
+    },
+    {
+      "id": 48,
+      "start": 234.8,
+      "end": 240.0,
+      "text_en": "But then when I met hardworking people like Janet, who weren't making it,",
+      "text_zh": "但当我遇到像珍妮特这样努力工作但没能成功的人时，"
+    },
+    {
+      "id": 49,
+      "start": 240.8,
+      "end": 247.34,
+      "text_en": "their struggles got to my heart, especially as an immigrant who believes in the American dream.",
+      "text_zh": "他们的挣扎深深地触动了我的心，尤其是作为一个相信美国梦的移民。"
+    },
+    {
+      "id": 50,
+      "start": 248.8,
+      "end": 254.52,
+      "text_en": "So figuring out how to improve company performance and jobs became my work mission.",
+      "text_zh": "因此，弄清楚如何提高公司绩效和工作岗位就成了我的工作使命。"
+    },
+    {
+      "id": 51,
+      "start": 255.68,
+      "end": 260.14,
+      "text_en": "Now, luckily, some companies have already figured this out.",
+      "text_zh": "现在，幸运的是，一些公司已经意识到了这一点。"
+    },
+    {
+      "id": 52,
+      "start": 260.72,
+      "end": 266.48,
+      "text_en": "So Jim Senegal, Corsco's co-founder and my business hero, this is my class.",
+      "text_zh": "Corsco 的联合创始人、我的商业偶像吉姆·塞内加尔（Jim Senegal）是我的课程。"
+    },
+    {
+      "id": 53,
+      "start": 267.04,
+      "end": 271.46,
+      "text_en": "My MBA students are always so curious. They say,",
+      "text_zh": "我的 MBA 学生总是那么好奇。他们说，"
+    },
+    {
+      "id": 54,
+      "start": 271.68,
+      "end": 274.46,
+      "text_en": "Hanken Corsco, the world's third largest retailer,",
+      "text_zh": "Hanken Corsco，世界第三大零售商，"
+    },
+    {
+      "id": 55,
+      "start": 275.04,
+      "end": 279.3,
+      "text_en": "afforded the pace workers so much more than other retailers, and",
+      "text_zh": "为步行者提供比其他零售商更多的费用，并且"
+    },
+    {
+      "id": 56,
+      "start": 280.16,
+      "end": 282.06,
+      "text_en": "provide us customers the lowest prices.",
+      "text_zh": "为我们的客户提供最低的价格。"
+    },
+    {
+      "id": 57,
+      "start": 282.68,
+      "end": 285.48,
+      "text_en": "Here is how much Corsco pays compared to other retailers.",
+      "text_zh": "以下是 Corsco 与其他零售商相比支付的费用。"
+    },
+    {
+      "id": 58,
+      "start": 285.96,
+      "end": 286.86,
+      "text_en": "Huge difference.",
+      "text_zh": "差异巨大。"
+    },
+    {
+      "id": 59,
+      "start": 287.72,
+      "end": 289.84,
+      "text_en": "And Jim's answer is always the same.",
+      "text_zh": "吉姆的回答总是一样的。"
+    },
+    {
+      "id": 60,
+      "start": 290.4,
+      "end": 294.32,
+      "text_en": "He says, paying your fellow workers well isn't altruism.",
+      "text_zh": "他说，给同事高薪并不是利他主义。"
+    },
+    {
+      "id": 61,
+      "start": 295.12,
+      "end": 296.08,
+      "text_en": "It's good business.",
+      "text_zh": "这是一笔好生意。"
+    },
+    {
+      "id": 62,
+      "start": 297.16,
+      "end": 305.0,
+      "text_en": "Corsco's employee turnover is a fraction of the retail average, 8% versus 60%.",
+      "text_zh": "Corsco 的员工流失率只是零售业平均水平的一小部分，分别为 8% 和 60%。"
+    },
+    {
+      "id": 63,
+      "start": 305.0,
+      "end": 311.14,
+      "text_en": "And it's 20 years stock performance is so much higher than other retailers or S&P 500.",
+      "text_zh": "而且它 20 年的股票表现远高于其他零售商或标准普尔 500 指数。"
+    },
+    {
+      "id": 64,
+      "start": 312.08,
+      "end": 315.82,
+      "text_en": "You might say, yeah, but Corsco is an exception.",
+      "text_zh": "你可能会说，是的，但 Corsco 是个例外。"
+    },
+    {
+      "id": 65,
+      "start": 316.26,
+      "end": 318.32,
+      "text_en": "Jim Senegal is brave and brilliant.",
+      "text_zh": "吉姆·塞内加尔勇敢而聪明。"
+    },
+    {
+      "id": 66,
+      "start": 319.16,
+      "end": 323.18,
+      "text_en": "And that's the only reason they can keep their cost low at wages high.",
+      "text_zh": "这是他们能够在高工资的情况下保持低成本的唯一原因。"
+    },
+    {
+      "id": 67,
+      "start": 323.74,
+      "end": 325.0,
+      "text_en": "But it's not just Corsco.",
+      "text_zh": "但这不仅仅是科尔斯科。"
+    },
+    {
+      "id": 68,
+      "start": 326.14,
+      "end": 330.32,
+      "text_en": "Others like Mercadona, Spain's largest supermarket chain,",
+      "text_zh": "其他如西班牙最大的连锁超市 Mercadona，"
+    },
+    {
+      "id": 69,
+      "start": 330.84,
+      "end": 334.94,
+      "text_en": "QuickTrap, a convenience store chain with gas stations,",
+      "text_zh": "QuickTrap，一家设有加油站的连锁便利店，"
+    },
+    {
+      "id": 70,
+      "start": 335.68,
+      "end": 341.18,
+      "text_en": "have also turned, was typically considered low wage, high turnover jobs,",
+      "text_zh": "也转向了通常被认为是低工资、高流动性的工作，"
+    },
+    {
+      "id": 71,
+      "start": 341.9,
+      "end": 342.84,
+      "text_en": "into good jobs.",
+      "text_zh": "进入好工作。"
+    },
+    {
+      "id": 72,
+      "start": 343.82,
+      "end": 348.98,
+      "text_en": "Now, these companies all pay their workers more, because absence of sufficient pay,",
+      "text_zh": "现在，这些公司都给工人支付更高的工资，因为没有足够的工资，"
+    },
+    {
+      "id": 73,
+      "start": 350.04,
+      "end": 351.78,
+      "text_en": "guarantees high employee turnover.",
+      "text_zh": "保证了员工的高流动率。"
+    },
+    {
+      "id": 74,
+      "start": 353.18,
+      "end": 355.98,
+      "text_en": "But pay alone is not going to make Janice job a good one.",
+      "text_zh": "但仅凭薪酬并不能让珍妮丝成为一份好工作。"
+    },
+    {
+      "id": 75,
+      "start": 356.96,
+      "end": 362.68,
+      "text_en": "And if all Janice company did was to pay workers more without raising their productivity,",
+      "text_zh": "And if all Janice company did was to pay workers more without raising their productivity,"
+    },
+    {
+      "id": 76,
+      "start": 363.56,
+      "end": 367.18,
+      "text_en": "then that would mean either higher prices or lower profits.",
+      "text_zh": "那么这将意味着要么更高的价格，要么更低的利润。"
+    },
+    {
+      "id": 77,
+      "start": 368.76,
+      "end": 372.22,
+      "text_en": "Higher pay requires higher productivity.",
+      "text_zh": "更高的工资需要更高的生产力。"
+    },
+    {
+      "id": 78,
+      "start": 373.16,
+      "end": 376.9,
+      "text_en": "And higher productivity requires better work.",
+      "text_zh": "更高的生产力需要更好的工作。"
+    },
+    {
+      "id": 79,
+      "start": 377.54,
+      "end": 379.92,
+      "text_en": "Here is how work at Janice store will be different.",
+      "text_zh": "以下是 Janice 商店工作方式的不同之处。"
+    },
+    {
+      "id": 80,
+      "start": 379.92,
+      "end": 383.44,
+      "text_en": "If her store operated more like Corsco or QuickTrap or Mercadona,",
+      "text_zh": "如果她的商店经营得更像 Corsco、QuickTrap 或 Mercadona，"
+    },
+    {
+      "id": 81,
+      "start": 384.90000000000003,
+      "end": 388.24,
+      "text_en": "everyone's priority would be the customer.",
+      "text_zh": "每个人的首要任务都是客户。"
+    },
+    {
+      "id": 82,
+      "start": 389.52,
+      "end": 394.04,
+      "text_en": "So when there's a long line at the checkout, someone's helping merchandise would rush over",
+      "text_zh": "So when there's a long line at the checkout, someone's helping merchandise would rush over"
+    },
+    {
+      "id": 83,
+      "start": 394.04,
+      "end": 397.54,
+      "text_en": "to open a cash register, because they would be cross-strained.",
+      "text_zh": "to open a cash register, because they would be cross-strained."
+    },
+    {
+      "id": 84,
+      "start": 398.3,
+      "end": 404.98,
+      "text_en": "When there are problems, experience cashiers would be trusted to sold them quickly,",
+      "text_zh": "当出现问题时，可以信赖经验丰富的收银员来快速出售，"
+    },
+    {
+      "id": 85,
+      "start": 404.98,
+      "end": 411.06,
+      "text_en": "no need to call Janet for help. They would also work fast, not just because they have expertise,",
+      "text_zh": "无需打电话给珍妮特寻求帮助。他们工作起来也很快，不仅仅是因为他们有专业知识，"
+    },
+    {
+      "id": 86,
+      "start": 411.62,
+      "end": 415.34,
+      "text_en": "but because corporate would do everything it can to simplify their work.",
+      "text_zh": "但因为公司会尽一切努力简化他们的工作。"
+    },
+    {
+      "id": 87,
+      "start": 416.12,
+      "end": 422.36,
+      "text_en": "Janet's store would also operate with Slack, meaning having enough staff to take care of the",
+      "text_zh": "珍妮特的商店也将与 Slack 一起运营，这意味着有足够的员工来照顾"
+    },
+    {
+      "id": 88,
+      "start": 422.36,
+      "end": 430.48,
+      "text_en": "customer, minimize mistakes, and do improvement. But operating with Slack wouldn't work if there are",
+      "text_zh": "客户，尽量减少错误，并进行改进。但如果存在以下情况，则使用 Slack 进行操作将无法工作"
+    },
+    {
+      "id": 89,
+      "start": 430.48,
+      "end": 440.32,
+      "text_en": "slackers. So the standards would be high. And we turned over low, Janet would have time to",
+      "text_zh": "slackers. So the standards would be high. And we turned over low, Janet would have time to"
+    },
+    {
+      "id": 90,
+      "start": 440.32,
+      "end": 445.36,
+      "text_en": "develop her team and improve performance. Now, if you think about the work at the store,",
+      "text_zh": "develop her team and improve performance. Now, if you think about the work at the store,"
+    },
+    {
+      "id": 91,
+      "start": 445.64,
+      "end": 454.32,
+      "text_en": "it's still not glamorous, and Janet would still go home physically exhausted, but not defeat it.",
+      "text_zh": "it's still not glamorous, and Janet would still go home physically exhausted, but not defeat it."
+    },
+    {
+      "id": 92,
+      "start": 454.98,
+      "end": 461.28,
+      "text_en": "She would feel valued, and she would take pride in creating a lot of value.",
+      "text_zh": "她会感到受到重视，并会为创造很多价值而感到自豪。"
+    },
+    {
+      "id": 93,
+      "start": 462.24,
+      "end": 468.22,
+      "text_en": "So what makes a job a good one, both for workers and companies, is not this or that thing,",
+      "text_zh": "因此，对于工人和公司而言，使一份工作成为好工作的因素不是这个或那个，"
+    },
+    {
+      "id": 94,
+      "start": 468.58,
+      "end": 475.2,
+      "text_en": "but it's the system. It's the system with two interdependent elements. One is investment in people,",
+      "text_zh": "but it's the system. It's the system with two interdependent elements. One is investment in people,"
+    },
+    {
+      "id": 95,
+      "start": 475.8,
+      "end": 482.7,
+      "text_en": "pays, schedules, career pass, standards. The other is work that's productive and motivating,",
+      "text_zh": "工资、时间表、职业通行证、标准。另一个是富有成效和激励性的工作，"
+    },
+    {
+      "id": 96,
+      "start": 482.7,
+      "end": 486.32,
+      "text_en": "with simplification, empowerment, cross-training, and operating with Slack.",
+      "text_zh": "通过简化、授权、交叉培训以及使用 Slack 进行操作。"
+    },
+    {
+      "id": 97,
+      "start": 487.4,
+      "end": 493.68,
+      "text_en": "I want to make this system, which I call the good job system, the norm, not the exception.",
+      "text_zh": "I want to make this system, which I call the good job system, the norm, not the exception."
+    },
+    {
+      "id": 98,
+      "start": 495.7,
+      "end": 502.52,
+      "text_en": "So to do that, I started a nonprofit called the Good Javas Institute, and I've been working with my",
+      "text_zh": "So to do that, I started a nonprofit called the Good Javas Institute, and I've been working with my"
+    },
+    {
+      "id": 99,
+      "start": 502.52,
+      "end": 509.68,
+      "text_en": "former MBA students, and together we have now worked with more than 30 companies, whose leaders",
+      "text_zh": "前 MBA 学生，我们现在已与 30 多家公司合作，这些公司的领导人"
+    },
+    {
+      "id": 100,
+      "start": 510.40000000000003,
+      "end": 517.34,
+      "text_en": "wanted to adopt the system to win with their customers. And we have seen small and large companies",
+      "text_zh": "希望采用该系统来赢得客户。我们见过大大小小的公司"
+    },
+    {
+      "id": 101,
+      "start": 517.34,
+      "end": 525.9,
+      "text_en": "in different industries do it. A huge part of their success was their leader's ability to imagine",
+      "text_zh": "在不同的行业都这样做。他们的成功很大程度上取决于领导者的想象力"
+    },
+    {
+      "id": 102,
+      "start": 526.72,
+      "end": 533.24,
+      "text_en": "the workings of their own good job system and have the courage to adopt it. Let me give you an example.",
+      "text_zh": "他们自己良好的工作制度的运作方式，并有勇气采用它。让我举个例子。"
+    },
+    {
+      "id": 103,
+      "start": 534.2,
+      "end": 543.04,
+      "text_en": "In 2017, John Furner became the CEO of SAMH's Club, which is Walmart's membership-based model",
+      "text_zh": "2017年，John Furner成为SAMH's Club首席执行官，该俱乐部是沃尔玛的会员制模式"
+    },
+    {
+      "id": 104,
+      "start": 543.04,
+      "end": 550.1,
+      "text_en": "that competes with Costco. Now, at the time, SAMH's Club was struggling and way behind Costco in terms",
+      "text_zh": "与 Costco 竞争。现在，当时，SAMH’s Club 正在苦苦挣扎，在方面远远落后于 Costco。"
+    },
+    {
+      "id": 105,
+      "start": 550.1,
+      "end": 557.24,
+      "text_en": "of labor productivity, member satisfaction sales, employee turnover. John was SAMH's club's",
+      "text_zh": "劳动生产率、会员满意度、销售额、员工流动率。约翰是 SAMH 俱乐部的成员"
+    },
+    {
+      "id": 106,
+      "start": 557.24,
+      "end": 564.76,
+      "text_en": "14 CEO in 34 years. Imagine the performance pressure, to show results in a short amount of time.",
+      "text_zh": "34年里第14任CEO。想象一下在短时间内显示结果的性能压力。"
+    },
+    {
+      "id": 107,
+      "start": 566.04,
+      "end": 572.62,
+      "text_en": "One of the earliest changes that John wanted to make was to raise pay five to seven dollars an hour",
+      "text_zh": "约翰最早想做的改变之一就是每小时加薪五到七美元"
+    },
+    {
+      "id": 108,
+      "start": 572.62,
+      "end": 581.08,
+      "text_en": "from a basis of 15 dollars an hour for workers who cut meat, who worked in bakery, who led teams.",
+      "text_zh": "切肉工人、面包店工作人员、领导团队的工人每小时 15 美元。"
+    },
+    {
+      "id": 109,
+      "start": 582.0400000000001,
+      "end": 590.5,
+      "text_en": "But John got pushed back. HR said, don't do it. Last time you raised pay, it didn't reduce turnover.",
+      "text_zh": "但约翰却被推迟了。HR说，别这么做。上次加薪并没有减少营业额。"
+    },
+    {
+      "id": 110,
+      "start": 591.6,
+      "end": 599.38,
+      "text_en": "Finance said, don't do it. It's not in the budget. There was no way for John to be able to prove",
+      "text_zh": "财务说，不要这样做。这不在预算之内。约翰没有办法证明"
+    },
+    {
+      "id": 111,
+      "start": 599.38,
+      "end": 605.56,
+      "text_en": "with numbers that higher pay and higher pay alone without the rest of the system would pay off.",
+      "text_zh": "数字表明，更高的工资和单独的更高工资而不是系统的其余部分都会得到回报。"
+    },
+    {
+      "id": 112,
+      "start": 606.52,
+      "end": 611.76,
+      "text_en": "But he was certain that SAMH's Club couldn't be a great company if they didn't raise pay.",
+      "text_zh": "But he was certain that SAMH's Club couldn't be a great company if they didn't raise pay."
+    },
+    {
+      "id": 113,
+      "start": 612.68,
+      "end": 618.82,
+      "text_en": "You see, to be logged by their customers, their members, they had to have a motivated, capable team",
+      "text_zh": "你看，要被他们的客户、他们的成员记录，他们必须拥有一支积极主动、有能力的团队"
+    },
+    {
+      "id": 114,
+      "start": 618.82,
+      "end": 623.66,
+      "text_en": "that can set up for success. That wasn't possible without reducing turnover,",
+      "text_zh": "that can set up for success. That wasn't possible without reducing turnover,"
+    },
+    {
+      "id": 115,
+      "start": 624.24,
+      "end": 631.02,
+      "text_en": "and reducing turnover wasn't possible without raising pay, because people were leaving for jobs",
+      "text_zh": "and reducing turnover wasn't possible without raising pay, because people were leaving for jobs"
+    },
+    {
+      "id": 116,
+      "start": 631.02,
+      "end": 638.88,
+      "text_en": "that paid a couple more dollars an hour. So just like Jim Senegal, John could connect the dots",
+      "text_zh": "每小时多付几美元。所以就像吉姆·塞内加尔一样，约翰可以把这些点联系起来"
+    },
+    {
+      "id": 117,
+      "start": 639.74,
+      "end": 647.72,
+      "text_en": "between pay, turnover, productive work, and competitiveness. So he and his team",
+      "text_zh": "薪酬、营业额、生产性工作和竞争力之间的关系。所以他和他的团队"
+    },
+    {
+      "id": 118,
+      "start": 648.6999999999999,
+      "end": 657.36,
+      "text_en": "took a leap of faith, they raised pay, and they did the hard bottom-up work to improve productivity",
+      "text_zh": "他们坚定了信念，提高了工资，并进行了自下而上的艰苦工作来提高生产力"
+    },
+    {
+      "id": 119,
+      "start": 657.36,
+      "end": 663.62,
+      "text_en": "and jobs. When they announced the first pay raises, some employees cried.",
+      "text_zh": "和就业机会。当他们宣布第一次加薪时，一些员工哭了。"
+    },
+    {
+      "id": 120,
+      "start": 664.86,
+      "end": 671.1,
+      "text_en": "You know, for workers like Janet, a couple more dollars an hour is the difference between working",
+      "text_zh": "你知道，对于像珍妮特这样的工人来说，每小时多赚几美元就是工作和工作之间的区别。"
+    },
+    {
+      "id": 121,
+      "start": 671.1,
+      "end": 679.84,
+      "text_en": "one or two jobs. It's the difference between getting enough sleep or not. Having a stable schedule",
+      "text_zh": "一到两份工作。这就是睡眠充足与否的区别。有稳定的时间表"
+    },
+    {
+      "id": 122,
+      "start": 680.4,
+      "end": 686.04,
+      "text_en": "is the difference between spending time with your son or not. And for SAMH's Club,",
+      "text_zh": "是与你的儿子共度时光与不共度时光的区别。对于 SAMH 俱乐部来说，"
+    },
+    {
+      "id": 123,
+      "start": 686.78,
+      "end": 694.56,
+      "text_en": "within the first two years, labor productivity measured as units sold per hour increased 16%.",
+      "text_zh": "在头两年内，以每小时销售量衡量的劳动生产率提高了 16%。"
+    },
+    {
+      "id": 124,
+      "start": 694.56,
+      "end": 701.46,
+      "text_en": "Employee turnover dropped 25% for our labor workers, even more for managers. Sales increased",
+      "text_zh": "我们的劳务人员的员工流动率下降了 25%，管理人员的流动率下降得更多。销售额增加"
+    },
+    {
+      "id": 125,
+      "start": 701.46,
+      "end": 709.3,
+      "text_en": "25% without opening new stores. This type of performance improvement fueled more investment in",
+      "text_zh": "25% 无需开设新店。这种类型的绩效改进推动了更多的投资"
+    },
+    {
+      "id": 126,
+      "start": 709.3,
+      "end": 716.88,
+      "text_en": "people and record membership growth. The one struggling chain is now a growth engine for",
+      "text_zh": "人员并创纪录的会员增长。曾经陷入困境的连锁店现在已成为增长引擎"
+    },
+    {
+      "id": 127,
+      "start": 716.88,
+      "end": 723.78,
+      "text_en": "its parent company, Walmart, which, too, is on a good job journey. And John Furner got promoted",
+      "text_zh": "它的母公司沃尔玛也走上了良好的发展之路。约翰·弗纳升职了"
+    },
+    {
+      "id": 128,
+      "start": 723.78,
+      "end": 730.08,
+      "text_en": "to be the CEO of Walmart USA. I'm talking a lot about retail, but it's not just retail.",
+      "text_zh": "担任沃尔玛美国公司首席执行官。我谈论了很多关于零售的话题，但不仅仅是零售。"
+    },
+    {
+      "id": 129,
+      "start": 730.98,
+      "end": 735.2,
+      "text_en": "At Good Javas Institute, we've seen similar results, higher productivity, lower turnover,",
+      "text_zh": "在 Good Javas Institute，我们看到了类似的结果，生产力更高，人员流动率更低，"
+    },
+    {
+      "id": 130,
+      "start": 735.2,
+      "end": 744.18,
+      "text_en": "more love from customers and higher sales at restaurants, call centers, even at a pest control",
+      "text_zh": "受到更多顾客的喜爱，餐馆、呼叫中心甚至害虫防治中心的销售额更高"
+    },
+    {
+      "id": 131,
+      "start": 744.18,
+      "end": 752.8,
+      "text_en": "company. The success of these courageous early adopters, I hope, will make it a lot easier for",
+      "text_zh": "公司。我希望这些勇敢的早期采用者的成功将使事情变得更容易"
+    },
+    {
+      "id": 132,
+      "start": 752.8,
+      "end": 758.44,
+      "text_en": "others to make a bet on their people. You know, when we think about high performance organizations,",
+      "text_zh": "其他人在他们的人民身上下注。你知道，当我们考虑高绩效组织时，"
+    },
+    {
+      "id": 133,
+      "start": 758.44,
+      "end": 767.5,
+      "text_en": "our first instinct is often to fix the people, right? But it turns out what we need fixing is",
+      "text_zh": "我们的第一直觉常常是去解决人，对吗？但事实证明我们需要解决的是"
+    },
+    {
+      "id": 134,
+      "start": 767.5,
+      "end": 776.56,
+      "text_en": "their work and their pay. The problem was never Janet. The problem was the system that Janet",
+      "text_zh": "他们的工作和报酬。问题从来都不是珍妮特。问题出在珍妮特的系统上。"
+    },
+    {
+      "id": 135,
+      "start": 776.56,
+      "end": 786.16,
+      "text_en": "was stuck in. And if we see jobs like hers, not as dead-end jobs, but as good jobs that can provide",
+      "text_zh": "如果我们看到像她这样的工作，不是没有出路的工作，而是可以提供的好工作"
+    },
+    {
+      "id": 136,
+      "start": 786.16,
+      "end": 793.68,
+      "text_en": "dignity, respect, and a decent living, we would have more engaged and productive workers.",
+      "text_zh": "尊严、尊重和体面的生活，我们就会拥有更多敬业度和生产力的工人。"
+    },
+    {
+      "id": 137,
+      "start": 794.24,
+      "end": 802.96,
+      "text_en": "We would have more competitive companies, a stronger economy, and a growing, rather than a shrinking",
+      "text_zh": "我们将拥有更具竞争力的公司、更强劲的经济、不断增长而非萎缩的经济"
+    },
+    {
+      "id": 138,
+      "start": 802.96,
+      "end": 810.62,
+      "text_en": "middle class. Tens of millions of essential workers would have hoped instead of desperation.",
+      "text_zh": "middle class. Tens of millions of essential workers would have hoped instead of desperation."
+    },
+    {
+      "id": 139,
+      "start": 810.62,
+      "end": 815.78,
+      "text_en": "And that will be a blessing for all of us. Thank you.",
+      "text_zh": "这将是我们所有人的祝福。谢谢。"
+    }
+  ]
+}
