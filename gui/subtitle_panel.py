@@ -16,6 +16,9 @@ class SubtitleLabel(QFrame):
 
     clicked = pyqtSignal(int)  # 点击信号，传递字幕序号
 
+    # 最小高度，确保短句子也有足够的点击区域
+    MINIMUM_HEIGHT = 60
+
     def __init__(self, segment: SubtitleSegment, parent=None):
         super().__init__(parent)
 
@@ -48,8 +51,12 @@ class SubtitleLabel(QFrame):
             zh_label.setStyleSheet("color: #666; font-size: 12px;")
             layout.addWidget(zh_label)
 
+        # 添加弹性空间，确保内容少时也有足够高度
+        layout.addStretch()
+
         # 设置基本样式
         self.setCursor(QCursor(Qt.CursorShape.PointingHandCursor))
+        self.setMinimumHeight(self.MINIMUM_HEIGHT)  # 设置最小高度
         self._update_style()
 
     def _get_time_text(self) -> str:
@@ -87,15 +94,32 @@ class SubtitleLabel(QFrame):
                 }
                 SubtitleLabel:hover {
                     background-color: #e8e8e8;
-                    border: 1px solid #bbb;
+                    border: 1px solid #2196f3;
                 }
             """)
 
     def mousePressEvent(self, event):
-        """鼠标点击事件"""
+        """鼠标点击事件 - 记录点击位置"""
         if event.button() == Qt.MouseButton.LeftButton:
-            self.clicked.emit(self.segment.id)
+            self._press_pos = event.pos()
         super().mousePressEvent(event)
+
+    def mouseReleaseEvent(self, event):
+        """鼠标释放事件 - 确认是点击而不是拖动"""
+        if event.button() == Qt.MouseButton.LeftButton:
+            # 检查是否是点击操作（按下和释放位置接近）
+            if hasattr(self, '_press_pos'):
+                # 计算移动距离
+                move_distance = (event.pos() - self._press_pos).manhattanLength()
+                # 如果移动距离小于10像素，认为是点击
+                if move_distance < 10 and self.rect().contains(event.pos()):
+                    self.clicked.emit(self.segment.id)
+                delattr(self, '_press_pos')
+            else:
+                # 没有记录按下位置，直接检查释放位置
+                if self.rect().contains(event.pos()):
+                    self.clicked.emit(self.segment.id)
+        super().mouseReleaseEvent(event)
 
 
 class SubtitlePanel(QWidget):

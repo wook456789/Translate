@@ -12,6 +12,9 @@ datas = [
     (os.path.join(current_dir, 'config.py'), '.'),
 ]
 
+# 收集 PyQt6 插件（重要！）
+datas += collect_data_files('PyQt6')
+
 # 收集隐藏的导入
 hiddenimports = [
     'whisper',
@@ -24,6 +27,7 @@ hiddenimports = [
     'PyQt6.QtWidgets',
     'PyQt6.QtMultimedia',
     'PyQt6.QtMultimediaWidgets',
+    'PyQt6.QtNetwork',
 ]
 
 # 收集 whisper 的子模块
